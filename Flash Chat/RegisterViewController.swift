@@ -4,6 +4,8 @@
 //
 //  This is the View Controller which registers new users with Firebase
 //
+// SWIFT CLOSURES (ADVANCED SWIFT) was incredibly useful. Dramatic ways to reduce amount of code needed to write. 
+// https://www.udemy.com/ios-11-app-development-bootcamp/learn/v4/t/lecture/8440238?start=0
 
 import UIKit
 import Firebase
